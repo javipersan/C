@@ -1,3 +1,5 @@
+/* Este ejemplo muestra el uso de if anidados*/
+
 #include <stdio.h>
 
 int main()
