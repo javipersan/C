@@ -1,1 +1,1 @@
-Aquí encontrarás varios ejemplos de sentencias alternativas o bifurcaciones: "los IF...."
+Aquí encontrarás varios ejemplos de sentencias alternativas, condicionales o bifurcaciones: "los IF...."
