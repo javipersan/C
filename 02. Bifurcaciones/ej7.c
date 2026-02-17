@@ -1,3 +1,8 @@
+/* Ejemplo de uso de la sentencia switch que, 
+en algunos casos, puede sustituir a if anidados.
+Muy utilizado para realizar menús de una forma
+cómoda y estructurada*/
+
 #include <stdio.h>
 #define PI 3.141592
 
