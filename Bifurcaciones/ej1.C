@@ -9,8 +9,11 @@ int main()
 	if (numero > 5)
 		printf("El numero es mayor que 5.\n");
 	
-	
+					/*lo que viene a continuación estaría fuera del if 
+					y por lo tanto se ejecutaría siempre*/
+
 	printf("El numero leido fue %f.",numero);
 	
 	return(0);
 }
+
